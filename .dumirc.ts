@@ -8,6 +8,6 @@ export default defineConfig({
     footer: 'Powered by vbeats'
   },
   analytics: {
-    ga_v2: 'G-292490889',
+    ga_v2: 'G-ERE4E7HP60',
   }
 });

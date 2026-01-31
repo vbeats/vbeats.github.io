@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "title"
-  text: "desc"
-  tagline: My great project tagline
+  name: "cicd包工头"
+  text: "🤖 滴滴滴 快上车 ~"
+  tagline: good good study 🧂 day day up
   actions:
     - theme: brand
       text: Markdown Examples
@@ -22,4 +22,3 @@ features:
   - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
-
